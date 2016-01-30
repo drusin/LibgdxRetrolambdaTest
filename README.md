@@ -1,12 +1,12 @@
-# How to use retrolambds with libGDX
-This repository a barebones libGDX project created with the setup-tool. Only Desktop and Android projects are created, no add-ons are selected. It aims to provide the minimal delta needed to use lambdas for the android build of a libGDX application.
+# How to use retrolambda with libGDX
+This repository has a barebones libGDX project created with the setup-tool. Only Desktop and Android projects are created, no add-ons are selected. It aims to provide the minimal delta needed to use lambdas for the android build of a libGDX application.
 
 It assumes the following
 ------------------------
 
 1. You have Java 8 sdk and Java 6 sdk installed
-2. You have a JAVA_HOME enivronmental variable set in you Windows that points to the Java 8 sdk
-3. You have a JAVA6_HOME enivronmental variable set in you Windows that points to the Java 6 sdk
+2. You have a JAVA_HOME enivronmental variable set in your Windows that points to the Java 8 sdk
+3. You have a JAVA6_HOME enivronmental variable set in your Windows that points to the Java 6 sdk
 
 Shortcomings of retrolamda
 --------------------------
